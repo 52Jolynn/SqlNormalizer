@@ -1,3 +1,3 @@
-function() {
+function abc() {
 	alert('github-test.js');
 }
